@@ -3,7 +3,7 @@
 A collection of wordlists I've found around - plus a little polishing.
 
 
-## encoding
+## Encoding
 
 An attempt was made to make this all UTF-8
 
@@ -13,7 +13,7 @@ These were translated to be the actual characters and encoded in UTF-8, but sinc
 there are no guarantees that is all correct. 
 
 
-## attribution
+## Attribution
 
 Where wordlists had initial comments, those are left in. 
    ...so when loading them, you may want to ignore initial lines starting with #, which is the usual way to put in comments.
