@@ -23,3 +23,8 @@ I will try to note the origin (the name should be a hint at least), but there ar
 Relatedly, it seems most wordlists were made to be used fairly freely.
 There are othes that are clearly part of copyrighted software. 
 I try to avoid them, but if you own the copyright for any and feel this is infringing, drop me a line, and I will try to link to them instead.
+
+
+## Similarities
+
+YAWL, SOWPODS, and TWL06 are very smilar lists (90+% overlap)
