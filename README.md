@@ -5,9 +5,9 @@ A collection of wordlists I've found around - plus a little polishing.
 
 ## Encoding
 
-An attempt was made to make this all UTF-8
-
 Various lists I found used an ASCII-safe coding of non-ASCII characters, or used codepages.
+
+An attempt was made to make this all UTF-8. Where the coding is known to be unknown, it's marked with .decodeme, I should get to it eventually.
 
 These were translated to be the actual characters and encoded in UTF-8, but since not all of them are languages I speak or understand well enouh,
 there are no guarantees that is all correct. 
