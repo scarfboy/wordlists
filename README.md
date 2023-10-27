@@ -1,6 +1,12 @@
 # wordlists
 
-A collection of wordlists I've found around - plus a little polishing.
+This is an attempt to collect, de-duplicate, and normalize as many useful wordlists I
+could find, while avoiding the ones that were blindly generated without much review.
+
+...and various other things I found interesting, like phrases, possibly password lists later.
+A few of them are mine, most are not.
+
+Thanks to many other collectors, enthusiats, security sites, linguist hobbyists, and many more before me.
 
 
 ## Encoding
@@ -20,9 +26,13 @@ Where wordlists had initial comments, those are left in.
 
 I will try to note the origin (the name should be a hint at least), but there are plenty of wordlists that I cannot find the origin of.
 
-Relatedly, it seems most wordlists were made to be used fairly freely.
+I assume these are usable without getting into trouble. Unless mentioned otherwise.
+But don't incorporate them into anything serious without checking the legalities.
+Just saying.
+
 There are othes that are clearly part of copyrighted software. 
 I try to avoid them, but if you own the copyright for any and feel this is infringing, drop me a line, and I will try to link to them instead.
+
 
 
 ## Similarities
