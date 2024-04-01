@@ -37,4 +37,5 @@ I try to avoid them, but if you own the copyright for any and feel this is infri
 
 ## Similarities
 
-YAWL, SOWPODS, and TWL06 are very smilar lists (90+% overlap)
+YAWL, SOWPODS, and TWL06 (and others not yet added) are very smilar lists (90+% overlap),
+used for scrabble and other word games.
