@@ -1,6 +1,2 @@
-names.* linguist-language=text
-words.* linguist-language=text
-phrases.* linguist-language=text
-nouns.* linguist-language=text
-numbers.* linguist-language=text
+*.3 linguist-language=text
 *.* linguist-language=text
