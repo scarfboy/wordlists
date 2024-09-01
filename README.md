@@ -27,7 +27,8 @@ Where wordlists had initial comments, those are left in.
 I will try to note the origin (the name should be a hint at least), but there are plenty of wordlists that I cannot find the origin of.
 
 I assume these are usable without getting into trouble. Unless mentioned otherwise.
-But don't incorporate them into anything serious without checking the legalities.
+
+WARNING: ...but I advise you do not incorporate them into anything serious without checking the legalities.
 Just saying.
 
 There are othes that are clearly part of copyrighted software. 
