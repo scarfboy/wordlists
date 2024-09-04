@@ -4,7 +4,7 @@ This is an attempt to collect, de-duplicate, and normalize as many useful wordli
 could find, while avoiding the ones that were blindly generated without much review.
 
 ...and various other things I found interesting, like phrases, possibly password lists later.
-A few of them are mine, most are not.
+A few of them are my compilations, most are not.
 
 Thanks to many other collectors, enthusiats, security sites, linguist hobbyists, and many more before me.
 
