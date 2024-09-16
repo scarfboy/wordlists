@@ -1,10 +1,11 @@
 # wordlists
 
-This is an attempt to collect, de-duplicate, and normalize as many useful wordlists I
-could find, while avoiding the ones that were blindly generated without much review.
+A collections of wordlists, most found, some made.
+A few of them are my compilations, most are found around the internet, 
+avoiding the ones that were blindly generated without much review,
+and de-duplicated and normalizing the rest.
 
-...and various other things I found interesting, like phrases, possibly password lists later.
-A few of them are my compilations, most are not.
+Plus some other things I found interesting, like phrases, possibly password lists later.
 
 Thanks to many other collectors, enthusiats, security sites, linguist hobbyists, and many more before me.
 
@@ -13,10 +14,10 @@ Thanks to many other collectors, enthusiats, security sites, linguist hobbyists,
 
 Various lists I found used an ASCII-safe coding of non-ASCII characters, or used codepages.
 
-An attempt was made to make this all UTF-8. Where the coding is known to be unknown, it's marked with .decodeme, I should get to it eventually.
+An attempt was made to make this all UTF-8 - though for languages I don't speak or understand well enough this is not guaranteed to be correct.
 
-These were translated to be the actual characters and encoded in UTF-8, but since not all of them are languages I speak or understand well enouh,
-there are no guarantees that is all correct. 
+Where the coding is known to be unknown, it's marked with .decodeme.
+I should get to it eventually.
 
 
 ## Attribution
@@ -24,12 +25,11 @@ there are no guarantees that is all correct.
 Where wordlists had initial comments, those are left in. 
    ...so when loading them, you may want to ignore initial lines starting with #, which is the usual way to put in comments.
 
-I will try to note the origin (the name should be a hint at least), but there are plenty of wordlists that I cannot find the origin of.
+I will try to note the origin -- the name should be a hint at least -- but there are plenty of wordlists that I cannot find the origin of.
 
 I assume these are usable without getting into trouble. Unless mentioned otherwise.
 
-WARNING: ...but I advise you do not incorporate them into anything serious without checking the legalities.
-Just saying.
+WARNING: ...but I advise you do not incorporate them into anything serious without checking the legalities. Just saying.
 
 There are othes that are clearly part of copyrighted software. 
 I try to avoid them, but if you own the copyright for any and feel this is infringing, drop me a line, and I will try to link to them instead.
