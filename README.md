@@ -38,5 +38,11 @@ I try to avoid them, but if you own the copyright for any and feel this is infri
 
 ## Similarities
 
-YAWL, SOWPODS, and TWL06 (and others not yet added) are very smilar lists (90+% overlap),
+Say, words.english.websters is pretty similar to words.english.nltk, words.unabridged, words.look.freja.diku.dk
+and that is probably because there will always be wordlists that are _probably_ based on others.
+
+Also, YAWL, SOWPODS, and TWL06 (and others not yet added) are very smilar lists (90+% overlap),
 used for scrabble and other word games.
+
+
+
